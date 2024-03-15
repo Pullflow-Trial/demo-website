@@ -47,6 +47,7 @@ Click this button and it will help you create a new repo, create a new Netlify p
     npm install
     npm run dev
     ```
+    
 
   > Alternatively, you can run this locally with [the Netlify CLI](https://docs.netlify.com/cli/get-started/)'s by running the `netlify dev` command for more options like receiving a live preview to share (`netlify dev --live`) and the ability to test [Netlify Functions](https://www.netlify.com/products/functions) and [redirects](https://docs.netlify.com/routing/redirects/). 
 
