@@ -1,8 +1,8 @@
 [![Netlify + Astro](https://user-images.githubusercontent.com/43764894/223559085-8ff69d2f-4247-427f-a3a6-d2036b00082a.png)](https://ntl.fyi/3LZGn73)
 
 # Astro Quickstart Template   
-
-This is a bare-bones Astro project that has everything you need to quickly deploy it to [Netlify](https://netlify.com). 
+Testing
+is a bare-bones Astro project that has everything you need to quickly deploy it to [Netlify](https://netlify.com). 
 
 Hate reading, here's a video: https://youtu.be/SknFflQVOys!
 
